@@ -6,9 +6,9 @@ I built this to stop jumping between spreadsheets, PDFs, and Word docs every tim
 -I used opensource model openai/gpt-oss-20b:free from Openrouter.
 
 If you're just getting started, you can follow exactly what I do:
-- I run through the quick steps in `GETTING_STARTED.md` (it takes ~5 minutes)
+- I first install the requirements from requirements.txt
 - Then I open the notebook `miniLM.ipynb` and run all cells
-- Finally, I ask real questions like “What were total sales in 2016?” or “Summarize the PDF report”
+- Finally, I ask real questions like “Who won the Singapore Grand Prix 2025?” or “Summarize the PDF report”
 
 Why I built this (in one line): I wanted a single place to ask questions across different document types without reformatting or switching tools.
 
